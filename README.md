@@ -6,6 +6,8 @@
 - Lancez le script en faisant :
 ```
 ```
+npm i
+& ensuite :
 node index ou node .
 ```
 

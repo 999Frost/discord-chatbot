@@ -5,8 +5,8 @@
 
 - Lancez le script en faisant :
 ```
+```
 node index ou node .
 ```
 
 Enjoy !
-```
